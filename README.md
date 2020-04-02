@@ -1,4 +1,4 @@
 # Coffee-Lovers
-Quick bootstrap-based website I made based on the instructions of a beginners guide.
+Quick bootstrap-based website I to test static webpage deployment.
 
 Note to self: figure out why the hamburger in the navbar doesn't work
